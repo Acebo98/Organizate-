@@ -1,0 +1,47 @@
+<resources>
+    <!--UI principal-->
+    <string name="app_name">Organizate!</string>
+    <string name="itemSalir">Salir</string>
+    <string name="descripcion">DESCRIPCIÓN</string>
+    <string name="SUBTAREAS">SUBTAREAS</string>
+    <string name="guardar">Guardar</string>
+    <string name="marcar_hecho">Marcar como hecho</string>
+    <string name="borrar_tarea">Borrar tarea</string>
+    <string name="modificar_tarea">Modificar tarea</string>
+    <string name="marcar_sin_hacer">Marca como sin hacer</string>
+    <string name="ver_actividad">Ver actividad</string>
+    <string name="añadir_elemento">Añade un elemento</string>
+
+    <!-- Dialogos -->
+    <string name="nueva_tarea">NUEVA TAREA</string>
+    <string name="nueva_tag">NUEVA ETIQUETA</string>
+    <string name="TAG">ETIQUETA</string>
+    <string name="NUEVA_SUBTAREA">NUEVA SUBTAREA</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="entendido">Entendido</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="introducir_texto">Es necesario insertar los datos en pantalla</string>
+    <string name="tag_existente">Ya existe una etiqueta con dicho nombre ya insertada</string>
+    <string name="ocurrir_error">Ha ocurrido un problema</string>
+    <string name="seleccion_tag">Selecciona la etiqueta</string>
+    <string name="tarea_insertada">La tarea ha sido insertada</string>
+    <string name="no_tags">No tienes etiquetas</string>
+    <string name="añadir_tags">No tienes etiquetas almacenadas. Para poder identificar a las tareas necesitas
+        tener etiquetas almacenadas</string>
+    <string name="error_lectura">Error en la lectura de datos</string>
+    <string name="deseas_salir">¿Deseas salir de la aplicación?</string>
+    <string name="confirmación">Confirmación</string>
+    <string name="confirmar_hecho">¿Deseas marcar esta tarea como hecha?</string>
+    <string name="confirmar_borrar">¿Deseas en serio borrar esta tarea?</string>
+    <string name="tarea_borrada">La tarea ha sido borrada</string>
+    <string name="confirmar_no_hecho">¿Deseas marcar esta tarea como no hecha?</string>
+    <string name="descripcion_cambiada">La descripción ha sido modificada</string>
+    <string name="tarea_repetida">Parece que ya tienes una tarea con dicho nombre ya insertada</string>
+    <string name="aviso">Aviso</string>
+
+    <!--Tabs-->
+    <string name="por_hacer">Por Hacer</string>
+    <string name="hecho">Hecho</string>
+    <string name="etiquetas">Etiquetas</string>
+    <string name="title_activity_tarea">TareaActivity</string>
+</resources>
